@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Anuraag. I don't want to limit myself to some language/framework/environment.
+- 👋 Hi, I’m Anuraag. I am a full stack web2 developer. And I don't wanna limit myself to some language/framework/environment.
+- 
 - 👀 I’m interested in building projects that can help change lives. 
+- 
 - 🌱 I’m currently learning Reactjs and nodejs
+- 
 - 💞️ I’m looking to collaborate on any project that can help me more on pushing myself to work on anything.
+- 
 - 📫 Reach out to me at anuragg1000@gmail.com
