@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anuraag. I am a full stack web2 developer. And I don't wanna limit myself to some language/framework/environment.
+- 👋 Hi, I’m Anurag! I am a full stack web2 developer. And I don't wanna limit myself to some language/framework/environment.
 - 
 - 👀 I’m interested in building projects that can help improve lives somehow. 
 - 
