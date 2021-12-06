@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Anurag! I am a full stack web2 developer. And I don't wanna limit myself to some language/framework/environment.
+- 👋 Hi! I’m Anurag, a full stack web2 developer. I don't want to limit myself to some language/framework/environment.
 - 
 - 👀 I’m interested in building projects that can help improve lives somehow. 
 - 
-- 🌱 I’m currently learning Reactjs and nodejs (Javascript and CSS are ongoing)
+- 🌱 I’m currently learning Reactjs and nodejs.
 - 
 - 💞️ I’m looking to collaborate on any project that can help me more on pushing myself to work on anything.
 - 
