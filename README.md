@@ -1,9 +1,7 @@
-- 👋 Hi! I’m Anurag, a full stack web2 developer. I don't want to limit myself to some language/framework/environment.
+- 👋 Hi! I’m Anurag, a full stack web2 developer. I have been primarily working on Javascript for 3 years.
 - 
-- 👀 I’m interested in building projects that can help improve lives somehow. 
+- 👀 I’m really interested in building projects that can help improve lives somehow
 - 
-- 🌱 I’m currently learning Reactjs and nodejs.
-- 
-- 💞️ I’m looking to collaborate on any project that can help me more on pushing myself to work on anything.
-- 
+- 🌱 Currently, I'm exploring React, nodejs and typescript.
+- - 
 - 📫 Reach out to me at anuragg1000@gmail.com
